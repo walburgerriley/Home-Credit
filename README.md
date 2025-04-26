@@ -1,6 +1,7 @@
 # Home-Credit
 
 Predictive Risk Classification for Loan Eligibility
+
 🚀 Summary of the Business Problem and Project Objective
 Many individuals are denied loans due to a lack of traditional credit history. This represents a missed opportunity to serve creditworthy customers and increase revenue. Our project aims to solve this issue by developing a machine learning classification model that accurately assesses the risk level of loan applicants, even those with little or no credit history.
 
